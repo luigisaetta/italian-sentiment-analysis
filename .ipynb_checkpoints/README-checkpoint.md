@@ -13,3 +13,9 @@ The pretrained model was developed by Neuraly.
 
 https://huggingface.co/neuraly/bert-base-italian-cased-sentiment
 
+## for further info
+It is useful to take alook at the following example
+
+https://docs.oracle.com/en-us/iaas/data-science/sample-code/pytorch_pretrained.ipynb
+
+

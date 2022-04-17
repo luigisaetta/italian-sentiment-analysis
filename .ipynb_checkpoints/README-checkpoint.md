@@ -4,6 +4,7 @@ This repository contains all the artifacts for a demo where I have developed a m
 ## features
 * How to use a pretrained Transformer for Sentiment Analysis
 * Save the model to the OCI Model Catalog
+* Download model and tokenizer from local
 
 ## further ideas
 * Language detection

@@ -1,4 +1,5 @@
 # Italian-Sentiment-Analysis
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 This repository contains all the artifacts originally developed for a demo where I have developed a model for **Sentiment Analysis in Italian**
 
 Then, I have added a second examples using a multi-lingual model (English, Dutch, German, French, Spanish and Italian)

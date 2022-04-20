@@ -10,6 +10,7 @@ all the to models used are based on BERT
 ## features
 * How to use a pretrained **Transformer** for Sentiment Analysis
 * how to save a model to a local directory and load from the local directory
+* how to use different models with the same Python class
 
 
 ## further ideas
